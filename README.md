@@ -1,3 +1,7 @@
+Disusun Oleh :
+Abdul Hafid rr (11230910000056)
+Rayhan Aghno Zakri Setiawan (12409011030042)
+
 Topik: Selenium (Web Test Automation) | Disusun: 3 November 2026
 
 # 5W + 1H
